@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\MyAndroid\\BookAndroidHero\\Chapter_1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_third.xml",
+        "source": "D:\\MyAndroid\\BookAndroidHero\\Chapter_1\\app\\src\\main\\res\\layout\\activity_third.xml"
+    },
+    {
+        "merged": "D:\\MyAndroid\\BookAndroidHero\\Chapter_1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\MyAndroid\\BookAndroidHero\\Chapter_1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MyAndroid\\BookAndroidHero\\Chapter_1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "D:\\MyAndroid\\BookAndroidHero\\Chapter_1\\app\\src\\main\\res\\layout\\activity_second.xml"
+    }
+]
